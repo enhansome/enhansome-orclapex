@@ -2,45 +2,49 @@
   "items": [
     {
       "description": "Made with Oracle APEX.",
-      "items": [],
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "OMonAPEX",
+              "description": "Oracle Monitoring in Oracle APEX - by OraOpenSource, IranApex",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45788267,
+                "language": "PLSQL",
+                "last_commit": "2021-10-07T15:07:10Z",
+                "owner": "OraOpenSource",
+                "repo": "OMonAPEX",
+                "stars": 66
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "APEX-SERT",
+              "description": "Security Evaluation and Recommendation Tool - by OraOpenSource, Scott Spendolini",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 41767130,
+                "language": null,
+                "last_commit": "2025-05-09T15:46:17Z",
+                "owner": "OraOpenSource",
+                "repo": "apex-sert",
+                "stars": 49
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Open Source"
+        }
+      ],
       "title": "Apps"
     },
     {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "OMonAPEX",
-          "description": "Oracle Monitoring in Oracle APEX - by OraOpenSource, IranApex",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "PLSQL",
-            "last_commit": "2021-10-07T15:07:10Z",
-            "owner": "OraOpenSource",
-            "repo": "OMonAPEX",
-            "stars": 66
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "APEX-SERT",
-          "description": "Security Evaluation and Recommendation Tool - by OraOpenSource, Scott Spendolini",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": null,
-            "last_commit": "2025-05-09T15:46:17Z",
-            "owner": "OraOpenSource",
-            "repo": "apex-sert",
-            "stars": 49
-          }
-        }
-      ],
-      "title": "Open Source"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -49,6 +53,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31022196,
             "language": "PLSQL",
             "last_commit": "2021-04-14T13:42:12Z",
             "owner": "OraOpenSource",
@@ -63,6 +68,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34457558,
             "language": "PLSQL",
             "last_commit": "2020-08-11T11:32:13Z",
             "owner": "OraOpenSource",
@@ -77,6 +83,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 86931959,
             "language": "Shell",
             "last_commit": "2021-05-28T08:27:54Z",
             "owner": "Dani3lSun",
@@ -91,6 +98,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47006551,
             "language": "JavaScript",
             "last_commit": "2023-01-07T03:56:58Z",
             "owner": "OraOpenSource",
@@ -105,6 +113,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30032037,
             "language": "PLSQL",
             "last_commit": "2019-06-28T14:47:16Z",
             "owner": "OraOpenSource",
@@ -119,6 +128,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 171026002,
             "language": "Shell",
             "last_commit": "2023-04-05T01:57:53Z",
             "owner": "fuzziebrain",
@@ -133,6 +143,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 97848015,
             "language": "JavaScript",
             "last_commit": "2023-03-02T13:14:39Z",
             "owner": "insum-labs",
@@ -147,24 +158,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 41626139,
             "language": "JavaScript",
             "last_commit": "2017-03-07T20:48:25Z",
             "owner": "FilipVanVooren",
             "repo": "Xplug-for-APEX-Page-Designer",
             "stars": 7
           }
-        },
-        {
-          "node_type": "item",
-          "title": "APEX Client Extension",
-          "description": "build APEX desktop apps using Electron - by FOEX",
-          "children": []
         }
       ],
       "title": "Tools"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -173,6 +179,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73171392,
             "language": "PLSQL",
             "last_commit": "2019-03-01T03:34:03Z",
             "owner": "Dani3lSun",
@@ -187,6 +194,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33907124,
             "language": "PLSQL",
             "last_commit": "2017-11-05T18:02:36Z",
             "owner": "vincentmorneau",
@@ -198,7 +206,7 @@
       "title": "Boilerplates"
     },
     {
-      "description": "",
+      "description": "Contribute some ;)",
       "items": [
         {
           "node_type": "item",
@@ -207,6 +215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 92813577,
             "language": "JavaScript",
             "last_commit": "2021-02-04T14:44:42Z",
             "owner": "mgoricki",
@@ -221,6 +230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76997673,
             "language": "PLSQL",
             "last_commit": "2016-12-21T09:38:35Z",
             "owner": "tobiasarnhold",
@@ -230,21 +240,12 @@
         }
       ],
       "title": "Tips"
-    },
-    {
-      "description": "Contributions welcome! Read the contribution guidelines first.",
-      "items": [],
-      "title": "Contribute"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T16:22:05.771Z",
+    "last_updated": "2026-08-19T12:45:20.471Z",
     "original_repository": "Dani3lSun/awesome-orclapex",
+    "original_repository_id": 101053898,
     "original_repository_sha": "0d0687b94e3557ed57488032bfd00d4d50d2a510",
     "enhanced_repository": "enhansome/enhansome-orclapex",
     "enhanced_repository_description": null,
