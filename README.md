@@ -1,6 +1,6 @@
 # Awesome Oracle APEX (Application Express) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,730 | 🐛 102 | 📅 2026-08-18 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 498,140 | 🐛 105 | 📅 2026-08-18 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
 [![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
 
 [<img src="https://rawgit.com/Dani3lSun/awesome-orclapex/master/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
@@ -55,7 +55,7 @@ Made with Oracle APEX.
 
 ## Tools
 
-* [Logger](https://github.com/OraOpenSource/Logger) ⭐ 324 | 🐛 131 | 🌐 PLSQL | 📅 2021-04-14 - Logging utility for Oracle DB & APEX - by OraOpenSource
+* [Logger](https://github.com/OraOpenSource/Logger) ⭐ 324 | 🐛 132 | 🌐 PLSQL | 📅 2021-04-14 - Logging utility for Oracle DB & APEX - by OraOpenSource
 * [OOS Utils](https://github.com/OraOpenSource/oos-utils) ⭐ 206 | 🐛 93 | 🌐 PLSQL | 📅 2020-08-11 - Common PL/SQL utility scripts / API - by OraOpenSource
 * [Oracle Database & APEX Developer Docker Image](https://github.com/Dani3lSun/docker-db-apex-dev) ⭐ 202 | 🐛 13 | 🌐 Shell | 📅 2021-05-28 - scripts for Docker image building - by Daniel Hochleitner
 * [APEX Nitro](https://github.com/OraOpenSource/apex-nitro) ⭐ 146 | 🐛 32 | 🌐 JavaScript | 📅 2023-01-07 - essential APEX companion - by OraOpenSource, Vincent Morneau
@@ -295,4 +295,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
