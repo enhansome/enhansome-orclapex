@@ -1,6 +1,6 @@
 # Awesome Oracle APEX (Application Express) with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,849 | 🐛 106 | 📅 2026-08-21 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,140 | 🐛 105 | 📅 2026-08-21 [![APEX Community](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/78c5adbe/badges/apex-community-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
 [![APEX Built with Love](https://cdn.rawgit.com/Dani3lSun/apex-github-badges/7919f913/badges/apex-love-badge.svg)](https://github.com/Dani3lSun/apex-github-badges) ⭐ 16 | 🐛 0 | 📅 2019-09-27
 
 [<img src="https://rawgit.com/Dani3lSun/awesome-orclapex/master/apex-logo.svg" align="right" width="100">](https://apex.oracle.com)
@@ -277,7 +277,7 @@ These feeds regularly tweet about APEX. Please use hashtag #orclapex :)
 
 ## Tips
 
-* [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) ⭐ 145 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-04 - by Marko Gorički
+* [Interactive Grid Cheatsheet](https://github.com/mgoricki/orclapex-ig-cheat-sheet) ⭐ 144 | 🐛 3 | 🌐 JavaScript | 📅 2021-02-04 - by Marko Gorički
 * [SVG in APEX: Best Practices](https://github.com/tobiasarnhold/svg-in-apex) ⭐ 11 | 🐛 0 | 🌐 PLSQL | 📅 2016-12-21 - by Tobias Arnhold, Sebastian Reinig
 * [Cheatsheet Keyboard Shortcuts](https://www.cheatography.com/sspendol/cheat-sheets/oracle-apex-5-keyboard-shortcuts/) - by Scott Spendolini
 * [Interactive Grid Cookbook](http://hardlikesoftware.com/weblog/2017/07/10/apex-interactive-grid-cookbook/) - by John Snyders
@@ -295,4 +295,4 @@ Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
