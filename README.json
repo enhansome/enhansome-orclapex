@@ -243,9 +243,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T16:42:39.373Z",
-    "original_repository": "Dani3lSun/awesome-orclapex",
-    "original_repository_id": 101053898,
+    "last_updated": "2026-08-27T11:55:40.091Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 101053898,
+      "language": null,
+      "last_commit": "2021-06-11T08:20:24Z",
+      "owner": "Dani3lSun",
+      "repo": "awesome-orclapex",
+      "stars": 193
+    },
     "original_repository_sha": "0d0687b94e3557ed57488032bfd00d4d50d2a510",
     "enhanced_repository": "enhansome/enhansome-orclapex",
     "enhanced_repository_description": null,
