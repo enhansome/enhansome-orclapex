@@ -12,12 +12,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Oracle monitoring in oracle apex",
+                "homepage": null,
                 "id": 45788267,
                 "language": "PLSQL",
+                "license": "GPL-3.0",
                 "last_commit": "2021-10-07T15:07:10Z",
+                "open_issues": 11,
                 "owner": "OraOpenSource",
                 "repo": "OMonAPEX",
-                "stars": 66
+                "stars": 66,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:17:57.303Z"
             },
@@ -28,12 +33,17 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "APEX SERT",
+                "homepage": "http://oraopensource.com/apex-sert",
                 "id": 41767130,
                 "language": null,
+                "license": null,
                 "last_commit": "2025-05-09T15:46:17Z",
+                "open_issues": 0,
                 "owner": "OraOpenSource",
                 "repo": "apex-sert",
-                "stars": 49
+                "stars": 49,
+                "topics": []
               },
               "first_seen": "2026-08-29T00:17:57.303Z"
             }
@@ -55,12 +65,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Logger is used by Oracle developers to instrument their PL/SQL code",
+            "homepage": "http://www.oraopensource.com/logger/",
             "id": 31022196,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2021-04-14T13:42:12Z",
+            "open_issues": 132,
             "owner": "OraOpenSource",
             "repo": "Logger",
-            "stars": 324
+            "stars": 324,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -71,12 +86,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Common PL/SQL utility scripts",
+            "homepage": null,
             "id": 34457558,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2020-08-11T11:32:13Z",
+            "open_issues": 93,
             "owner": "OraOpenSource",
             "repo": "oos-utils",
-            "stars": 206
+            "stars": 206,
+            "topics": [
+              "oracle",
+              "plsql"
+            ]
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -87,12 +110,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oracle Database & APEX Developer Docker Image",
+            "homepage": null,
             "id": 86931959,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2021-05-28T08:27:54Z",
+            "open_issues": 13,
             "owner": "Dani3lSun",
             "repo": "docker-db-apex-dev",
-            "stars": 202
+            "stars": 202,
+            "topics": [
+              "docker",
+              "oracle",
+              "oracle-ords",
+              "orclapex",
+              "sqlcl"
+            ]
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -103,12 +137,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Your essential APEX companion",
+            "homepage": null,
             "id": 47006551,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T03:56:58Z",
+            "open_issues": 32,
             "owner": "OraOpenSource",
             "repo": "apex-nitro",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "apex",
+              "css",
+              "front-end",
+              "javascript",
+              "productivity"
+            ]
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -119,12 +164,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oracle XE & APEX build script along with images for popular cloud platforms",
+            "homepage": "http://www.oraopensource.com/oxar/",
             "id": 30032037,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2019-06-28T14:47:16Z",
+            "open_issues": 58,
             "owner": "OraOpenSource",
             "repo": "OXAR",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -135,12 +185,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Utility scripts for creating an Oracle Application Express stack as a Docker container.",
+            "homepage": null,
             "id": 171026002,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-04-05T01:57:53Z",
+            "open_issues": 10,
             "owner": "fuzziebrain",
             "repo": "docker-apex-stack",
-            "stars": 99
+            "stars": 99,
+            "topics": [
+              "apex",
+              "database",
+              "docker",
+              "oml",
+              "oml4r",
+              "oracle",
+              "oracle-database",
+              "oracle-xe",
+              "orclapex",
+              "orclords",
+              "ords",
+              "plsql",
+              "webdevelopment"
+            ]
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -151,12 +220,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Browser extension to help with Oracle APEX development",
+            "homepage": null,
             "id": 97848015,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-02T13:14:39Z",
+            "open_issues": 19,
             "owner": "insum-labs",
             "repo": "insum-apex-pro",
-            "stars": 23
+            "stars": 23,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -167,12 +241,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enhance the APEX 5.0 / 5.1 Page Designer with some features currently unavailable in the official release. Development halted. Final version released in 2017.",
+            "homepage": null,
             "id": 41626139,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2017-03-07T20:48:25Z",
+            "open_issues": 1,
             "owner": "FilipVanVooren",
             "repo": "Xplug-for-APEX-Page-Designer",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         }
@@ -189,12 +268,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Templates for Oracle APEX Plug-ins",
+            "homepage": null,
             "id": 73171392,
             "language": "PLSQL",
+            "license": null,
             "last_commit": "2019-03-01T03:34:03Z",
+            "open_issues": 1,
             "owner": "Dani3lSun",
             "repo": "apex-plugin-templates",
-            "stars": 31
+            "stars": 31,
+            "topics": [
+              "oracle",
+              "oracle-apex-plugin",
+              "orclapex",
+              "plsql"
+            ]
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -205,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An empty APEX application with basic settings that any APEX theme needs",
+            "homepage": null,
             "id": 33907124,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2017-11-05T18:02:36Z",
+            "open_issues": 0,
             "owner": "vincentmorneau",
             "repo": "apex-theme-boilerplate",
-            "stars": 20
+            "stars": 20,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         }
@@ -227,12 +321,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Oracle APEX (Application Express) Interactive Grid Cheat Sheet",
+            "homepage": null,
             "id": 92813577,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2021-02-04T14:44:42Z",
+            "open_issues": 3,
             "owner": "mgoricki",
             "repo": "orclapex-ig-cheat-sheet",
-            "stars": 144
+            "stars": 144,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         },
@@ -243,12 +342,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SVG in APEX: Best Practices",
+            "homepage": "http://www.apex-at-work.com/2016/12/svg-in-apex-best-practices.html",
             "id": 76997673,
             "language": "PLSQL",
+            "license": "MIT",
             "last_commit": "2016-12-21T09:38:35Z",
+            "open_issues": 0,
             "owner": "tobiasarnhold",
             "repo": "svg-in-apex",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
         }
@@ -257,15 +361,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T00:17:57.303Z",
+    "last_updated": "2026-08-29T04:50:21.784Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome Oracle APEX resources",
+      "homepage": null,
       "id": 101053898,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2021-06-11T08:20:24Z",
+      "open_issues": 5,
       "owner": "Dani3lSun",
       "repo": "awesome-orclapex",
-      "stars": 193
+      "stars": 193,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "oracle",
+        "oracle-apex",
+        "orclapex"
+      ]
     },
     "original_repository_sha": "0d0687b94e3557ed57488032bfd00d4d50d2a510",
     "enhanced_repository": "enhansome/enhansome-orclapex",
