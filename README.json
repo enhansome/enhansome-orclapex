@@ -18,7 +18,8 @@
                 "owner": "OraOpenSource",
                 "repo": "OMonAPEX",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-29T00:17:57.303Z"
             },
             {
               "node_type": "item",
@@ -33,7 +34,8 @@
                 "owner": "OraOpenSource",
                 "repo": "apex-sert",
                 "stars": 49
-              }
+              },
+              "first_seen": "2026-08-29T00:17:57.303Z"
             }
           ],
           "description": null,
@@ -59,7 +61,8 @@
             "owner": "OraOpenSource",
             "repo": "Logger",
             "stars": 324
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -74,7 +77,8 @@
             "owner": "OraOpenSource",
             "repo": "oos-utils",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -89,7 +93,8 @@
             "owner": "Dani3lSun",
             "repo": "docker-db-apex-dev",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -104,7 +109,8 @@
             "owner": "OraOpenSource",
             "repo": "apex-nitro",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -119,7 +125,8 @@
             "owner": "OraOpenSource",
             "repo": "OXAR",
             "stars": 109
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -134,7 +141,8 @@
             "owner": "fuzziebrain",
             "repo": "docker-apex-stack",
             "stars": 99
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -149,7 +157,8 @@
             "owner": "insum-labs",
             "repo": "insum-apex-pro",
             "stars": 23
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -164,7 +173,8 @@
             "owner": "FilipVanVooren",
             "repo": "Xplug-for-APEX-Page-Designer",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         }
       ],
       "title": "Tools"
@@ -185,7 +195,8 @@
             "owner": "Dani3lSun",
             "repo": "apex-plugin-templates",
             "stars": 31
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -200,7 +211,8 @@
             "owner": "vincentmorneau",
             "repo": "apex-theme-boilerplate",
             "stars": 20
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         }
       ],
       "title": "Boilerplates"
@@ -221,7 +233,8 @@
             "owner": "mgoricki",
             "repo": "orclapex-ig-cheat-sheet",
             "stars": 144
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         },
         {
           "node_type": "item",
@@ -236,14 +249,15 @@
             "owner": "tobiasarnhold",
             "repo": "svg-in-apex",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-29T00:17:57.303Z"
         }
       ],
       "title": "Tips"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T00:42:13.111Z",
+    "last_updated": "2026-08-29T00:17:57.303Z",
     "original_repository_info": {
       "archived": false,
       "id": 101053898,
