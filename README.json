@@ -119,7 +119,7 @@
             "open_issues": 13,
             "owner": "Dani3lSun",
             "repo": "docker-db-apex-dev",
-            "stars": 201,
+            "stars": 202,
             "topics": [
               "docker",
               "oracle",
@@ -194,7 +194,7 @@
             "open_issues": 10,
             "owner": "fuzziebrain",
             "repo": "docker-apex-stack",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "apex",
               "database",
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T18:00:15.075Z",
+    "last_updated": "2026-09-13T18:26:53.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Oracle APEX resources",
