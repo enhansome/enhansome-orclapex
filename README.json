@@ -74,7 +74,7 @@
             "open_issues": 132,
             "owner": "OraOpenSource",
             "repo": "Logger",
-            "stars": 324,
+            "stars": 325,
             "topics": []
           },
           "first_seen": "2026-08-29T00:17:57.303Z"
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T18:55:28.488Z",
+    "last_updated": "2026-10-04T18:54:38.092Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Oracle APEX resources",
