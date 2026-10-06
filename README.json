@@ -146,7 +146,7 @@
             "open_issues": 32,
             "owner": "OraOpenSource",
             "repo": "apex-nitro",
-            "stars": 146,
+            "stars": 145,
             "topics": [
               "apex",
               "css",
@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T22:16:32.447Z",
+    "last_updated": "2026-10-06T10:14:57.988Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Oracle APEX resources",
