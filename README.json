@@ -361,7 +361,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T20:55:33.789Z",
+    "last_updated": "2026-10-14T19:53:43.185Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Oracle APEX resources",
@@ -373,7 +373,7 @@
       "open_issues": 5,
       "owner": "Dani3lSun",
       "repo": "awesome-orclapex",
-      "stars": 193,
+      "stars": 194,
       "topics": [
         "awesome",
         "awesome-list",
